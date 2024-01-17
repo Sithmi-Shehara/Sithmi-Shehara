@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sithmi Shehara</h1>
-
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sithmi-shehara&label=Profile%20views&color=0e75b6&style=flat" alt="sithmi-shehara" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithmi-shehara" alt="sithmi-shehara" /></a> </p>
+<h1 align="center">Hi 👋, I'm Sithmi Shehara</h1> 
+<p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="400" />
+<h2 align="center">A passionate software developer from Sri Lanka</h2>
 
 ### Exploring the World of Technology
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
