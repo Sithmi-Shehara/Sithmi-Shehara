@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sithmi Shehara</h1> 
+
 <p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="400" />
 <h2 align="center">A passionate software developer from Sri Lanka</h2>
 
@@ -54,5 +55,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sithmi-Shehara&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <br></br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithmi-shehara&" alt="sithmi-shehara" /></p>
+
 
