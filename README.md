@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/sithmi-shehara-2a0173291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithmi shehara" height="50" width="50" /></a>
 <a href="https://www.facebook.com/sithmi.shehara.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithmi shehara" height="50" width="50" /></a>
 <a href="https://www.instagram.com/sheharasithmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehara sithmi" height="50" width="50" /></a>
-<a href="discordapp.com/users/1104427391700451329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_sithmi" height="50" width="50" /></a>
+<a href="Sithmi-Shehara/discordapp.com/users/1104427391700451329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_sithmi" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
