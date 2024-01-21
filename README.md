@@ -1,6 +1,6 @@
   <h1 align="center">Hi 👋, I'm Sithmi Shehara</h1> 
 
-<p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="400" />
+
 <h2 align="center">A passionate software developer from Sri Lanka</h2>
 
 ### Exploring the World of Technology
